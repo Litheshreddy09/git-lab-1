@@ -1,1 +1,1 @@
-# git-lab-1
+echo "Hello Git!">>notes.txt
